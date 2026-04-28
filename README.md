@@ -1,4 +1,4 @@
-# string_algebra
+# Delimited Alegbra (String Algebra)
 
 A small Rust crate implementing a tiny algebra over delimited collections.
 Originally a Google Sheet defining four operators (join, split, union,
