@@ -1,7 +1,7 @@
 # Delimited Alegbra (String Algebra)
 
 A small Rust crate implementing a tiny algebra over delimited collections.
-Originally a Google Sheet defining four operators (join, split, union,
+Originally a Google Sheet/Excel doc (https://docs.google.com/spreadsheets/d/1fOlZ3YK-Fk7w4OU3tagHfohqSGkAPGL3CrboVoFcnZA/edit?gid=0#gid=0) defining four operators (join, split, union,
 forward-difference); generalized here via traits so the same code works on
 strings, numbers, or any type satisfying the bounds.
 
