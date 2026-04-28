@@ -1,0 +1,13 @@
+[package]
+name = "string_algebra"
+version = "0.1.0"
+edition = "2021"
+authors = ["Charles <crussella0129@gmail.com>"]
+description = "A small algebra of operations over delimited collections, generalized via traits."
+license = "MIT OR Apache-2.0"
+
+[dependencies]
+# None for the core. We'll keep it stdlib-only for now.
+
+[dev-dependencies]
+# For tests
