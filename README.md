@@ -1,4 +1,4 @@
-# Delimited Alegbra (String Algebra)
+# Set Diff (Rust Based Universal String Diff'er)
 
 A small Rust crate implementing a tiny algebra over delimited collections.
 Originally a Google Sheet/Excel doc (https://docs.google.com/spreadsheets/d/1fOlZ3YK-Fk7w4OU3tagHfohqSGkAPGL3CrboVoFcnZA/edit?gid=0#gid=0) defining four operators (join, split, union,
